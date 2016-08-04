@@ -3,3 +3,5 @@
 class b(object):
 	def __init__(self):
 		self.name = 'b'
+	def show(self):
+		print self.name
