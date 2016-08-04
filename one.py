@@ -1,4 +1,5 @@
 #!usr/bin/python
 
-class a(object):
-	pass
+class b(object):
+	def __init__(self):
+		self.name = 'b'
